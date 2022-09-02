@@ -112,3 +112,13 @@ curl -X 'POST' \
   "pickupLocationFilter": []
 }'
 ```
+
+# To Do List #
+
+The full scope of the exercise wasn't implemented (due to lack of time/availability)!
+
+There are also alot of opoortunities to improve the code performance.
+
+* Known Issues:
+    * Multiple Sorting on ```/list-yellow``` endpoint
+    * Increase unit testing scope
