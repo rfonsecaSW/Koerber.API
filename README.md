@@ -61,9 +61,9 @@ Edit the <em> appsettings.json </em> file, to configure the <em> "DatabaseOption
     "ConnectionString": "<INSERT SQL SERVER CONNECTION STRING>"
   },
   "DataLoaderOptions": {
-    "ZonesFilePath": "<INSERT ZONES FILE PATH>",
-    "GreenTaxiFilePath": "<INSERT GREEN TAXI FILE PATH>",
-    "YellowTaxiFilePath": "<INSERT YELLOW TAXI FILE PATH>"
+    "ZonesFilePath": "<INSERT ZONES .CSV FILE PATH>",
+    "GreenTaxiFilePath": "<INSERT GREEN TAXI .CSV FILE PATH>",
+    "YellowTaxiFilePath": "<INSERT YELLOW TAXI .CSV FILE PATH>"
   },
 ```
 
